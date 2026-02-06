@@ -1,0 +1,26 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "sscdsf",
+        "PN": "3rfd434f",
+        "MF": "f34f3f"
+      },
+      "MID": "MID20316",
+      "MD": "svgtjil8olmn",
+      "MT": "Electronic Material",
+      "MQNT": 2,
+      "MCost": 333.0,
+      "MQATG": "#CLASS_3",
+      "ML": "1222",
+      "MDS": "",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": []
+    }
+  ]
+}
