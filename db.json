@@ -7,7 +7,7 @@
         "MF": "gk.pcb"
       },
       "MID": "MID20316",
-      "MD": "Development Items: (v4.1)\r\n\r\n1) Each MIDXXXXX should contain history.json which only access by admin/mater access users. User can enter and record History of particular MIDs (specifically any confidential technical and finacial datas)\r\n2) Fine turning of Search Page and additon of filtering options (ex. Search by Manufacturer, History(Item no. 1))\r\n3) Adding of \"Complete Order\"(should visible after Approval only) option in PL Manager, Once user click \"Complete Order\" the repective MID and respective quantity should reflect in respective repos.\r\n4) Adding 3 Link section for each MIDs (Source, Sink, Alternate)\r\n\r\n5) Basic Chat Support.\r\n",
+      "MD": "Development Items: (v4.1)\r\n\r\n1) Each MIDXXXXX should contain history.json which only access by admin/mater access users. User can enter and record History of particular MIDs (specifically any confidential technical and finacial datas)\r\n2) Fine turning of Search Page and additon of filtering options (ex. Search by Manufacturer, History(Item no. 1))\r\n3) Adding of \"Complete Order\"(should visible after Approval only) option in PL Manager, Once user click \"Complete Order\" the repective MID and respective quantity should reflect in respective repos.\r\n4) Adding 3 Link section for each MIDs (Source, Sink, Alternate)\r\n5) Basic Chat Support.\r\n6) print_label/queues\r\n7) Budget History Tab in PL Manager.\r\n8) Import MID list as Excel option in BOM Manager.\r\n",
       "MT": "Electronic Material",
       "MQNT": 2,
       "MCost": 333.0,
